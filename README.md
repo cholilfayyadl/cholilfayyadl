@@ -2,14 +2,11 @@
 
 **`Lifelong learning, part time programmer, designer, and writer.`**
 
-I began my journey as a curious computer science student, passionate about learning everything I could—code, Unix, Linux, and especially Artificial Intelligence, where I dreamed of creating a transformative app. But life steered me toward mastering software engineering, landing me a full-stack job after graduation. While I enjoyed the work, I couldn’t ignore my growing passion for content creation, which eventually led me to quit my job and pursue YouTube full-time. It’s been rewarding, but there’s always been a lingering regret: abandoning my dream of building my own AI product. Now, it’s time to change that. In 2025, I’m taking the leap to chase that dream. To make it happen, I’ll streamline my YouTube workflow and focus on creating something meaningful in the AI space. It won’t be easy, but it’s time to get uncomfortable again.
+I began my journey as a curious computer science student, passionate about learning everything I could—code, Unix, Linux, and especially Artificial Intelligence, where I dreamed of creating a transformative app. But life steered me toward mastering software engineering, landing me a full-stack job after graduation. While I enjoyed the work, I couldn’t ignore my growing passion for content creation, which eventually led me to quit my job and pursue YouTube full-time. It’s been rewarding, but there’s always been a lingering regret: abandoning my dream of building my own AI product. Now, it’s time to change that. In 2024, I’m taking the leap to chase that dream. To make it happen, I’ll streamline my YouTube workflow and focus on creating something meaningful in the AI space. It won’t be easy, but it’s time to get uncomfortable again.
 
-   <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>   
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+
+> Basically, all creations will become trash in their time, but useful trash is the kind that can be recycled.
+
 
 ---
 
