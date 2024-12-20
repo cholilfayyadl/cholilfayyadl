@@ -5,7 +5,7 @@
 I began my journey as a curious computer science student, passionate about learning everything I could—code, Unix, Linux, and especially Artificial Intelligence, where I dreamed of creating a transformative app. But life steered me toward mastering software engineering, landing me a full-stack job after graduation. While I enjoyed the work, I couldn’t ignore my growing passion for content creation, which eventually led me to quit my job and pursue YouTube full-time. It’s been rewarding, but there’s always been a lingering regret: abandoning my dream of building my own AI product. Now, it’s time to change that. In 2024, I’m taking the leap to chase that dream. To make it happen, I’ll streamline my YouTube workflow and focus on creating something meaningful in the AI space. It won’t be easy, but it’s time to get uncomfortable again.
 
 
-> Basically, all creations will become trash in their time, but useful trash is the kind that can be recycled.
+> Basically, everything we create will turn into junk over time, but the kind of junk that’s useful is the one that can be recycled.
 
 
 ---
